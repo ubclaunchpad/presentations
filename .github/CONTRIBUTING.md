@@ -1,7 +1,6 @@
 # Contributing
 
-All contributions should be made through Pull Requests. Added presentations
-must have been presented by UBC Launch Pad members at a Launch Pad
+All contributions should be made through Pull Requests.
 
 ## Directories
 
