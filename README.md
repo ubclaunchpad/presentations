@@ -1,2 +1,3 @@
-# presentations
-🗺 UBC Launch Pad presentations
+# 🗺 Presentations
+
+UBC Launch Pad presentation assets!
