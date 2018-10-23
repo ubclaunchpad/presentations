@@ -16,5 +16,5 @@ about specific technologies and topics.
 
 ### 💻 Workshops
 
-[Workshops](workshops/) includes slideshows and materials used in Launch Pad 
+[Workshops](workshops/) include slideshows and materials used in Launch Pad 
 workshop events.
