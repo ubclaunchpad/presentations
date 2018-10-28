@@ -4,7 +4,7 @@ All contributions should be made through Pull Requests.
 
 ## Directories
 
-Each presentation should be part of a relevant sub-directory of one of the
+Each project presentation should be part of a relevant sub-directory of one of the
 top-level directories. For example:
 
 ```
@@ -15,6 +15,14 @@ presentations/
 │       ├── inertia-demo-1.pdf
 │       ├── inertia-demo-2.pdf
 │       └── inertia-demo-3.pdf
+```
+
+Tech talks and workshops can go directly into one of the top-level directories:
+
+```
+presentations/
+├── tech-talks/
+│   └── blockchain-intro.pdf
 ```
 
 ## Format
