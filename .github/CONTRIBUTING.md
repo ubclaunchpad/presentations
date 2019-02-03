@@ -12,9 +12,9 @@ presentations/
 ├── projects/
 │   └── inertia/
 |       ├── README.md
-│       ├── inertia-demo-1.pdf
-│       ├── inertia-demo-2.pdf
-│       └── inertia-demo-3.pdf
+│       ├── demo-1.pdf
+│       ├── demo-2.pdf
+│       └── demo-3.pdf
 ```
 
 Tech talks and workshops can go directly into one of the top-level directories:
@@ -24,6 +24,9 @@ presentations/
 ├── tech-talks/
 │   └── blockchain-intro.pdf
 ```
+
+Make sure you add links to the whatever new file you added to the appropriate
+README's!
 
 ## Format
 
