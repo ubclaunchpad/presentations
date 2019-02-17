@@ -8,3 +8,4 @@ some were presented externally at open events.
 
 * [Blockchain: A Technical Introduction](https://slides.ubclaunchpad.com/tech-talks/blockchain-intro.pdf)
 * [Application Security](https://slides.ubclaunchpad.com/tech-talks/application-security.pdf)
+* [Project Hub: Bringing an Idea to Life](https://slides.ubclaunchpad.com/tech-talks/ideation.pdf)
